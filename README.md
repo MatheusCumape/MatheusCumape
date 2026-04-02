@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 Olá, eu sou Matheus!
 
-<!--
-**MatheusCumape/MatheusCumape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Engenharia de Software  
+📍 Manaus - AM  
+🎯 Focado em desenvolvimento Front-end  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologias que estou aprendendo
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🚀 Projetos
+🔗 [Meu primeiro projeto](https://github.com/MatheusCumape/primeiro-projeto-frontend)
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/matheus-cumape-49088b3bb/
+- Email: matheus.cumape.dev@gmail.com
+
+---
+
+## 📈 Em evolução constante
+Buscando minha primeira oportunidade como desenvolvedor 🚀
