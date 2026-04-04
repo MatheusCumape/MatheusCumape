@@ -1,20 +1,15 @@
-# 🚀 Olá, eu sou Matheus!
+# Olá, eu sou Matheus!
 
-💻 Estudante de Engenharia de Software  
-📍 Manaus - AM  
-🎯 Focado em desenvolvimento Front-end  
+ Estudante de Engenharia de Software  
+ Manaus - AM  
+ Futuro Backend 
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+## Tecnologias que estou aprendendo
 - HTML
 - CSS
 - JavaScript
-
----
-
-## 🚀 Projetos
-🔗 [Meu primeiro projeto](https://github.com/MatheusCumape/primeiro-projeto-frontend)
 
 ---
 
