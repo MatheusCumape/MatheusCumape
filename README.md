@@ -10,6 +10,9 @@
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
+- Node.JS
+- Python
 
 ---
 
