@@ -2,7 +2,6 @@
 
  Estudante de Engenharia de Software  
  Manaus - AM  
- Futuro Backend 
 
 ---
 
@@ -10,6 +9,7 @@
 - HTML
 - CSS
 - JavaScript
+- Angular
 - Bootstrap
 - Node.JS
 - Python
